@@ -1,3 +1,0 @@
-D:/My Works/Github Projects/Third Level/Semseter 2/HBC/pASS/cmake-build-debug/CMakeFiles/pASS.dir
-D:/My Works/Github Projects/Third Level/Semseter 2/HBC/pASS/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/My Works/Github Projects/Third Level/Semseter 2/HBC/pASS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
